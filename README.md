@@ -2,50 +2,59 @@
 
 <p align="center">
   <a href="https://syncizen.com">
-    <img src="https://syncizen.com/assets/img/syncizen-logo.png" alt="SynciZen Logo" width="180" height="180">
+    <img src="https://syncizen.com/assets/img/syncizen-logo.png" alt="SynciZen Logo" width="200">
   </a>
 </p>
 
 <p align="center">
-  <strong>Welcome to the official public community and issue tracker for <a href="https://syncizen.com">SynciZen</a></strong><br>
-  the fast, native, cross-platform cloud sync client.
+  <strong>Official Public Community & Issue Tracker for SynciZen</strong><br>
+  <em>Sync All Your Files Across 14+ Cloud Providers — Safely and Transparently</em>
 </p>
 
 <p align="center">
-  This repository is dedicated to tracking bugs, feature requests, and community feedback.<br>
-  To maintain security and protect proprietary code, the core application source code is maintained<br>
-  in a separate, private repository.
+  SynciZen is a fast, native, cross-platform desktop sync client built with safety, transparency, and simplicity at its core.<br>
+  This repository serves as the public hub for bug reports, feature requests, and community discussions.
 </p>
 
-## Official Website
-🌐 https://syncizen.com
+<p align="center">
+  <strong>Official Website:</strong> <a href="https://syncizen.com">https://syncizen.com</a>
+</p>
+
+> **Note:** To maintain security and protect proprietary code, the core application source code is maintained in a private repository. This public repository is dedicated exclusively to issue tracking and community feedback.
 
 ## Contribution Guidelines
-We actively monitor this repository and review all submissions. Please follow the guidelines below when creating an issue.
 
-### Reporting a Bug
-If you encounter a software defect, a crash, or unexpected behavior:
+We welcome and carefully review all contributions to help improve SynciZen. Please adhere to the guidelines below when submitting issues.
 
-1. Search the **[existing issues]** to verify it has not already been reported.
-2. If it is a new issue, open a **New Issue** and provide the following details:
-   - A clear and descriptive title.
-   - Exact steps required to reproduce the issue.
-   - The expected behavior versus the actual behavior.
-   - Your Operating System version and the installed SynciZen application version.
-   - *(Optional but recommended)* Any relevant error messages extracted from the SynciZen Activity Log.
+### Reporting Bugs
 
-### Requesting a Feature or Improvement
-To suggest an enhancement to the SynciZen application:
+If you experience a defect, crash, or unexpected behavior:
 
-1. Search the **[existing issues]** to check if a similar request already exists.
-2. If not, open a **New Issue** and detail:
-   - The specific feature or architectural improvement requested.
-   - The technical or workflow problem it addresses.
-   - The proposed functionality or integration within the application.
+1. Search **[existing issues]** to confirm the problem has not already been reported.
+2. If the issue appears new, create a **New Issue** and include:
+   - A clear, descriptive title
+   - Detailed steps to reproduce the issue
+   - Expected behavior vs. actual behavior
+   - Operating system version and SynciZen application version
+   - (Recommended) Relevant excerpts from the SynciZen Activity Log or error messages
 
-## Support Inquiries
-If you require general support, configuration assistance, or troubleshooting that does not strictly pertain to a software defect, please utilize the **[Discussions]** tab or contact our official support channels via https://syncizen.com.
+### Requesting Features or Improvements
+
+To propose enhancements:
+
+1. Search **[existing issues]** to check for similar suggestions.
+2. If none exist, open a **New Issue** and provide:
+   - A clear description of the requested feature or improvement
+   - The specific problem or use case it addresses
+   - Proposed behavior or integration details
+
+## Support & General Inquiries
+
+For configuration help, troubleshooting advice, or questions not related to software defects, please use:
+
+- The **[Discussions]** tab in this repository, or
+- Official support channels available at https://syncizen.com
 
 ---
 
-*Thank you for contributing to the stability and enhancement of the SynciZen ecosystem.*
+Thank you for helping make SynciZen more reliable, efficient, and user-friendly.
