@@ -22,6 +22,10 @@
 
 > **Note:** To maintain security and protect proprietary code, the core application source code is maintained in a private repository. This public repository is dedicated exclusively to issue tracking and community feedback.
 
+## Benchmark Scripts
+
+Benchmark scripts for macOS, Linux, and Windows are available in the `benchmark_scripts` folder.
+
 ## Contribution Guidelines
 
 We welcome and carefully review all contributions to help improve SynciZen. Please adhere to the guidelines below when submitting issues.
